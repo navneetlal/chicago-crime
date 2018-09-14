@@ -1,0 +1,18 @@
+[
+  {
+    "label": "NumberOfIndexCrime",
+    "value": 101862
+  },
+  {
+    "label": "NumberOfNonIndexCrime",
+    "value": 152396
+  },
+  {
+    "label": "NumberOfViolentCrime",
+    "value": 22811
+  },
+  {
+    "label": "NumberOfPropertyCrime",
+    "value": 79051
+  }
+]

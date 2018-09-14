@@ -1,0 +1,66 @@
+{
+  "2001": {
+    "NumberOfAssault": 29138,
+    "NumberOfArrested": 6611
+  },
+  "2002": {
+    "NumberOfAssault": 29219,
+    "NumberOfArrested": 6732
+  },
+  "2003": {
+    "NumberOfAssault": 27193,
+    "NumberOfArrested": 6341
+  },
+  "2004": {
+    "NumberOfAssault": 26294,
+    "NumberOfArrested": 6349
+  },
+  "2005": {
+    "NumberOfAssault": 24703,
+    "NumberOfArrested": 6020
+  },
+  "2006": {
+    "NumberOfAssault": 23740,
+    "NumberOfArrested": 5752
+  },
+  "2007": {
+    "NumberOfAssault": 24235,
+    "NumberOfArrested": 6003
+  },
+  "2008": {
+    "NumberOfAssault": 23299,
+    "NumberOfArrested": 4754
+  },
+  "2009": {
+    "NumberOfAssault": 21107,
+    "NumberOfArrested": 5184
+  },
+  "2010": {
+    "NumberOfAssault": 19926,
+    "NumberOfArrested": 4605
+  },
+  "2011": {
+    "NumberOfAssault": 18980,
+    "NumberOfArrested": 4780
+  },
+  "2012": {
+    "NumberOfAssault": 18593,
+    "NumberOfArrested": 4498
+  },
+  "2013": {
+    "NumberOfAssault": 16640,
+    "NumberOfArrested": 4143
+  },
+  "2014": {
+    "NumberOfAssault": 15756,
+    "NumberOfArrested": 4191
+  },
+  "2015": {
+    "NumberOfAssault": 16054,
+    "NumberOfArrested": 3809
+  },
+  "2016": {
+    "NumberOfAssault": 4659,
+    "NumberOfArrested": 859
+  }
+}
